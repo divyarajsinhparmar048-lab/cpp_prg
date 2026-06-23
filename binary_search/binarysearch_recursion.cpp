@@ -1,7 +1,7 @@
 // binary search using recursion
 /*
 Documentation:
-https://github.com/<your-username>/<repo-name>/blob/main/binsearch.md
+https://github.com/divyarajsinhparmar048-lab/cpp_prg/blob/main/binarysearch.md
 */
 #include <iostream>
 #include <vector>
