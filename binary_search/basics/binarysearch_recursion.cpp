@@ -1,8 +1,10 @@
 // binary search using recursion
+
 /*
 Documentation:
-https://github.com/divyarajsinhparmar048-lab/cpp_prg/blob/main/binarysearch.md
+[Open Notes](./binarysearch.md)
 */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
