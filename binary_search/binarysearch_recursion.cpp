@@ -1,4 +1,8 @@
 // binary search using recursion
+/*
+Documentation:
+https://github.com/<your-username>/<repo-name>/blob/main/binsearch.md
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>
