@@ -15,7 +15,8 @@ int binary_search(vector<int> &v, int search)
 
     while (first <= last && !found)
     {
-        mid = (first + last) / 2;
+        // insted of this mid
+        mid = first + (last - first) / 2;
 
         if (v[mid] == search)
         {
