@@ -1,10 +1,5 @@
 // binary search using recursion
 
-/*
-Documentation:
-[Open Notes](./binarysearch.md)
-*/
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
